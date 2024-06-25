@@ -32,7 +32,7 @@ ChatGPT：
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 |  título  | Crie 10 headlines para nomes de artigos sobre o assunto Modelagem de dados básica                                                                                                                                                                                                    |
 
-Lexica.art：
+Microsoft Designer：
 
 - A simple flowchart of school symbols that represents a modelling system ecosystem for use as a banner. modern. brand colours are #024da1 and #37b884. blues and greens. ultrahd, kodak colour quality, 8k.
 
